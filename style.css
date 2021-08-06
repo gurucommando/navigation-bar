@@ -1,0 +1,38 @@
+    
+    
+h1{background-color:#BD4B4B;}
+body{background-color: teal;}
+
+ul{ padding:0;
+    margin:0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:#FF6767;
+}
+
+
+
+li a{ display:block;
+      text-decoration:none;
+      margin:15px;
+      padding:5px 5px;
+      text-align: center;
+      color: white;
+      background-color:#50CB93;
+      }
+
+
+
+.right{float:right}
+
+.bar{ background-color:#54436B}
+
+li{float:left;
+
+   }
+
+li a:hover{background-color:#00C1D4;}
+           
+
+
+
